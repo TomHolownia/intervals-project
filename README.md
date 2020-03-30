@@ -6,5 +6,5 @@
 
 * Add changes to the bucket: `git add < filename >`
 * Save a snapshot of the bucket: `git commit -m "Intervals Program"`
-* Push it to the cloud: `git push -u origin master`
+* Push it to the cloud: `git push -u origin master` or `git push`
 * Check status of changes: `git status`
